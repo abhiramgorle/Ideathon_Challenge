@@ -18,5 +18,6 @@ Link: https://ideathon-challenge.netlify.app/
 
 # Team Members 
 1. Gorle Durga Abhiram
-2. Risitha Kakarlapudi
-3. Harsitha  
+2. Rishita Kakarlapudi
+3. Harshita Labhala  
+4. Goutham Paila
